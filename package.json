@@ -1,0 +1,17 @@
+{
+	"name": "@pawn-token",
+	"version": "1.0.0",
+	"homepage": "https://pawnfi.com/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/PawnFi/PAWNtoken.git"
+	},
+	"dependencies": {
+		"@openzeppelin/contracts": "^4.8.0"
+	},
+	"devDependencies": {
+		"@nomicfoundation/hardhat-toolbox": "^2.0.1",
+		"dotenv": "^16.0.3",
+		"hardhat": "^2.12.7"
+	}
+}
