@@ -14,7 +14,7 @@ The PAWNtoken contract is responsible for managing the PAWN token, which is a go
 
 For any concerns with the protocol, open an issue or visit us on [Discord](https://discord.com/invite/pawnfi) to discuss.
 
-For security concerns, please email [support@security.pawnfi.com](dev@pawnfi.com).
+For security concerns, please email [dev@pawnfi.com](dev@pawnfi.com).
 
 _© Copyright 2023, Pawnfi Ltd._
 
